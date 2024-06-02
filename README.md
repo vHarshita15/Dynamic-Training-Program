@@ -24,7 +24,7 @@ Testimonials Section: Displays testimonials from clients.
 Contact Section: Includes contact information and social media links.
 Responsive Design: Adjusts seamlessly to different screen sizes and devices.
 Demo
-You can view a live demo of the project here "C:\Users\DELL\Videos\Captures\Dynamic Training Program - Personal - Microsoft​ Edge 2024-06-01 15-07-48.mp4"
+You can view a live demo of the project here       "C:\Users\DELL\Videos\Captures\Dynamic Training Program - Personal - Microsoft​ Edge 2024-06-01 15-07-48.mp4"
 
 Installation
 To set up the project locally, follow these steps:
@@ -71,7 +71,7 @@ README.md: This file.
 Technologies Used
 HTML
 CSS
-JavaScript (if applicable)
+JavaScript 
 Google Fonts (Poppins)
 Contributing
 Contributions are welcome! If you would like to contribute, please fork the repository and submit a pull request.
