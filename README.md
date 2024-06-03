@@ -1,5 +1,5 @@
-Project Name:
-A responsive, multi-section website for a fitness center, including features, schedules, trainers, testimonials, and contact information.
+<b>Project Name:  Fitnezz  </b><br><hr>
+A Responsive, multi-section website for a fitness center, including features, schedules, trainers, testimonials, and contact information.
 
 Table of Contents:
 Overview
